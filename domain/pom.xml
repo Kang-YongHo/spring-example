@@ -15,6 +15,7 @@
 
     <modules>
         <module>i18n-on-database</module>
+        <module>example-user</module>
     </modules>
 
 
